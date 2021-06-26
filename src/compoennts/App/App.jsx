@@ -9,9 +9,7 @@ function App(props) {
     const [segestedname, setsegestedname] = useState([]);
     const handleinputchange = (event) => {
         setexpand(false);
-        console.log(event.target.value);
         setsegestedname(name(event.target.value));
-        console.log(segestedname);
         if (event.target.value === '') {
             setexpand(true);
             setsegestedname([]);
