@@ -1,4 +1,4 @@
-# website link http://vibhuunofficial.github.io/Name_It/
+# website link http://vibhu8447.github.io/Name_It/
 
 # Getting Started with Create React App
 
