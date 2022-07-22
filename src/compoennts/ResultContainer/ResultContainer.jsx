@@ -7,7 +7,7 @@ function ResultContainer({ segestedname }) {
     });
     return (
         <div className="result-conatiner">
-            <p>{suggestedjsx}</p>
+            {suggestedjsx}
         </div>
     );
 }
